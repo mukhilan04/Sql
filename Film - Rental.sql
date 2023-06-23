@@ -1,3 +1,4 @@
+create schema film_rental;
 use film_rental;
 show tables;
 
